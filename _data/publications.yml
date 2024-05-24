@@ -1,22 +1,38 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: Variable Stiffness Control of a Soft Rehabilitation Robot with Sliding Mode Method
+    authors: Wenxin Zhu, Maotong Cheng, Yilin Lang, Qinyuan Ren
+    conference_short: CCDC
+    conference: Chinese Control and Decision Conference <strong>(CCDC)</strong>, 2023.
+    pdf: https://ieeexplore.ieee.org/document/10326966
+    notes:
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: Learning-Based Force Control of a Surgical Robot for Tool-Soft Tissue Interaction
+    authors: Qinyuan Ren, Wenxin Zhu, Zhao Feng, Wenyu Liang
+    conference_short: RA-L
+    conference: IEEE Robotics and Automation Letters <strong>(RA-L)</strong>, 2021.
+    pdf: https://ieeexplore.ieee.org/document/9466433
+    notes:
+
+  - title: Control of Antagonistic McKibben Muscles via a Bio-inspired Approach
+    authors: Xinyi Chen, Wenxin Zhu, Wenyu Liang, Yilin Lang, Qinyuan Ren
+    conference_short: JBE
+    conference: Journal of Bionic Engineering <strong>(JBE)</strong>, 2022.
+    pdf: https://link.springer.com/article/10.1007/s42235-022-00225-w
+    notes:
+
+  - title: Neuro-Inspired Motion Control of a Soft Myriapod Robot
+    authors: Qinyuan Ren, Wenxin Zhu, Jiawei Cao, Wenyu Liang
+    conference_short: TCDS
+    conference: IEEE Transactions on Cognitive and Developmental Systems <strong>(TCDS)</strong>, 2023.
+    pdf: https://ieeexplore.ieee.org/document/10147316
+    notes:
+
+
+  - title: Gaussian Process Model Predictive Admittance Control for Compliant Tool-Environment Interaction
+    authors: Wenxin Zhu, Wenyu Liang, Qinyuan Ren, Yan Wu
+    conference_short: ICIEA
+    conference: IEEE Conference on Industrial Electronics and Applications <strong>(ICIEA)</strong>, 2024.
+    pdf:
+    notes:
+
